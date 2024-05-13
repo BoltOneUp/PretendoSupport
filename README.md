@@ -1,2 +1,2 @@
 # PretendoSupport
-An unoficial Pretendo support site
+An unofficial Pretendo support site
