@@ -1,2 +1,3 @@
-# PretendoSupport
-An unofficial Pretendo support site
+# Pretendo Support
+
+Welcome to BoltOneUp's unofficial Pretendo Support Center!
